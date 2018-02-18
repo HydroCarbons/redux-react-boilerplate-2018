@@ -1,6 +1,6 @@
 ## Redux enabled boilerplate ready for 2018
 React + Redux + React-Bootrstrap + Babel + WebPack with hot module replacement
-+ a ToDo App 
+And a basic ToDo App 
 
 I made this **redux** and **stage-2** enabled boilerplate to quickly get and up running with React+Redux programming with a dev and prod build and traspilation pipeline. You can also use react-bootstrap https://react-bootstrap.github.io/ components.
 
@@ -30,7 +30,7 @@ I made this **redux** and **stage-2** enabled boilerplate to quickly get and up 
 
 ### <a href="http://localhost:8081" target="_blank">Go to App</a>
 
-![Alt text](https://github.com/HydroCarbons/redux-react-boilerplate/blob/master/docs/app.png)
+![Alt text](https://github.com/HydroCarbons/redux-react-boilerplate-2018/blob/master/docs/app.png)
 
 ## Production Environment
 
