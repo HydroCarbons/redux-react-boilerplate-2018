@@ -1,5 +1,5 @@
-## Redux enabled boilerplate ready for 2018
-React + Redux + React-Bootrstrap + Babel + WebPack with hot module replacement
+## A redux enabled react app boilerplate (2018)
+React + Redux + React-Bootrstrap + Babel + WebPack + Stage-2 with hot module replacement
 And a basic ToDo App 
 
 I made this **redux** and **stage-2** enabled boilerplate to quickly get and up running with React+Redux programming with a dev and prod build and traspilation pipeline. You can also use react-bootstrap https://react-bootstrap.github.io/ components.
