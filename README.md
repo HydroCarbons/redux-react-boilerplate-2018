@@ -28,10 +28,6 @@ I made this **redux** and **stage-2** enabled boilerplate to quickly get and up 
  http://localhost:8081
 ```
 
-### <a href="http://localhost:8081" target="_blank">Go to App</a>
-
-![Alt text](https://github.com/HydroCarbons/redux-react-boilerplate-2018/blob/master/docs/app.png)
-
 ## Production Environment
 
 1. Create build
@@ -46,6 +42,12 @@ I made this **redux** and **stage-2** enabled boilerplate to quickly get and up 
 3. <guid>.png << Application Icon
 4. index.html
 ```
+
+## App
+
+### <a href="http://localhost:8081" target="_blank">Go to App</a>
+
+![Alt text](https://github.com/HydroCarbons/redux-react-boilerplate-2018/blob/master/docs/app.png)
 
 ## Build Pipeline
 
