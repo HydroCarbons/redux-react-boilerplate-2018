@@ -1,7 +1,7 @@
 {
-  "name": "basic-react-boilerplate",
+  "name": "redux-react-boilerplate-2018",
   "version": "1.0.0",
-  "description": "Basic boilerplate with React, ReactBootstrap, Babel and Webpack",
+  "description": "Redux enabled boilerplate with React, ReactBootstrap, Babel and Webpack",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
     "watch": "webpack --watch",
